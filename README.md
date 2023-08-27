@@ -13,7 +13,7 @@ This Python script facilitates the download and verification of fMRI (functional
 <h3>To use the script: </h3>
 <ol>
   <li>Ensure you have Python installed.</li>
-  <li>Save the script as a '.py' file (e.g., 'download_impac_fmri.py').</li>
+  <li>Save the script as a '.py' file (e.g., 'download_impac_fmri.py') in a folder and then copy the data folder and paste it into this folder where you saved the python file.</li>
   <li>Open a terminal or command prompt and navigate to the script's directory.</li>
   <li>Run the script using: python 'download_impac_fmri.py'.</li>
   <li>Choose an atlas by typing its name (e.g., 'basc064', 'all', etc.).</li>
